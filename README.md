@@ -6,7 +6,7 @@ This repository contains source code for example how to do GKE GitOps bootstrapi
 - [linkedin]()
 
 ## How to
-Before you begin, you need to have a PAT doken for GitHub with 'read' permissions to the repository.
+Before you begin, you need to have a PAT token for GitHub with 'read' permissions to the repository.
 
 **define tfvars**
 Update tfvars for your needs. The 'git_pat' secret better to inject using ENV variable
